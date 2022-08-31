@@ -1,0 +1,5 @@
+package courseAPI.topic;
+
+public class TopicService {
+
+}

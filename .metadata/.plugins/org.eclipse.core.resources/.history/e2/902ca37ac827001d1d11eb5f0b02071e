@@ -1,0 +1,5 @@
+package courseAPI.hello;
+
+public class HelloController {
+
+}
